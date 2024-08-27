@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot]( )
 
 ## Visit the website :
 [](https://memepasal.netlify.app)
